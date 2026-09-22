@@ -59,16 +59,29 @@ The interactive dashboard includes:
 
 ## Key Insights
 
-- Total sales reached approximately **$8.23M**.
-- Total profit reached approximately **$1.65M**.
-- The dataset contains **14,541 orders**.
-- Overall profit margin was approximately **19.98%**.
-- Electronics represented the largest share of total sales.
-- The United States generated the highest sales among the analyzed countries.
-- Sales performance varied significantly across different sales channels.
-- Higher discount levels were associated with lower observed profit margins.
+- The business generated approximately **$8.23M in total sales** and **$1.65M in total profit** across **14,541 orders**, resulting in an overall **19.98% profit margin**.
 
-> Note: The relationship between discounts and profitability represents correlation in the observed dataset and does not establish causation.
+- Sales in **2025 increased by approximately 20.66% year over year**, representing the strongest recent annual growth in the dataset.
+
+- **Electronics accounted for approximately 59.78% of total sales**, making it the dominant product category and a major driver of overall revenue.
+
+- The **United States contributed approximately 42.55% of total sales**, making it the largest geographic market in the dataset.
+
+- The **B2B Portal generated the highest average order value at approximately $1,024.88**, indicating substantially larger transactions through this channel.
+
+- Higher discount levels were associated with lower observed profit margins, suggesting that aggressive discounting may reduce profitability.
+
+> **Note:** The relationship between discount levels and profitability represents an observed correlation in the dataset and does not establish causation.
+
+## Business Recommendations
+
+- **Prioritize high-performing product categories while managing concentration risk.** Electronics generates the majority of sales, so maintaining its performance is important while continuing to develop other categories to reduce reliance on a single product segment.
+
+- **Explore opportunities to expand higher-value sales channels.** The B2B Portal has the highest average order value, making it a strong area for further investigation and potential growth.
+
+- **Review discounting strategies with profitability in mind.** Since higher discount levels are associated with lower observed profit margins, discount programs should be evaluated to ensure that additional sales volume is sufficient to offset margin erosion.
+
+- **Continue monitoring geographic concentration.** With the United States representing a large share of total sales, growth opportunities in other markets could help diversify the revenue base.
 
 ## Repository Structure
 
