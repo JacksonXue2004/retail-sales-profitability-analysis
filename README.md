@@ -4,7 +4,7 @@ End-to-end data analytics project using Python, Pandas, MySQL, SQL, and Tableau 
 
 ## Dashboard Preview
 
-![Retail Sales & Profitability Dashboard](images/Retail Sales & Profitability Dashboard.png)
+![Retail Sales & Profitability Dashboard](images/Retail%20Sales%20%26%20Profitability%20Dashboard.png)
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/RetailSalesProfitabilityDashboard_17901183484830/RetailSalesProfitabilityDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
