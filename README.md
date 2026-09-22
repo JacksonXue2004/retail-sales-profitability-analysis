@@ -93,5 +93,7 @@ retail-sales-profitability-analysis/
 │   └── Sales_transactions_2022_2025_clean.csv
 ├── notebooks/
 │   └── data_cleaning.ipynb
-└── sql/
-    └── retail_sales_analysis.sql
+├── sql/
+│   └── retail_sales_analysis.sql
+└── images/
+    └── Retail Sales & Profitability Dashboard.png
