@@ -2,6 +2,12 @@
 
 End-to-end data analytics project using Python, Pandas, MySQL, SQL, and Tableau to analyze retail sales performance, profitability, product categories, geographic markets, sales channels, customers, and discount patterns.
 
+## Dashboard Preview
+
+![Retail Sales & Profitability Dashboard](images/retail_sales_dashboard.png)
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/RetailSalesProfitabilityDashboard_17901183484830/RetailSalesProfitabilityDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 
 This project analyzes retail transaction data from 2022 to 2025 to identify key sales and profitability trends and build an interactive business intelligence dashboard.
